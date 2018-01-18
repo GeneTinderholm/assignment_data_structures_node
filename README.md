@@ -58,6 +58,7 @@ O(n) time
 
 ---
 
+```
 class Stack {
 constructor(){
 this.stack = []
@@ -100,9 +101,11 @@ empty(){
 return this.stack.length === 0
 }
 }
+```
 
 ---
 
+```
 class Queue {
 constructor(){
 this.queue = []
@@ -149,3 +152,4 @@ empty(){
 return this.queue.length === 0
 }
 }
+```
