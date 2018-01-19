@@ -1,0 +1,24 @@
+{
+    "words": [
+      {
+        "term":"apple",
+        "definition": "apple"
+      },
+      {
+        "term":"babble",
+        "definition": "babble"
+      },
+      {
+        "term":"cat",
+        "definition": "cat"
+      },
+      {
+        "term":"diary",
+        "definition": "diary"
+      },
+      {
+        "term":"zebra",
+        "definition": "zebra"
+      }
+    ]
+}
